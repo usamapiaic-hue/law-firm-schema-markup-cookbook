@@ -1,0 +1,11 @@
+site_name: Law Firm Schema Markup Cookbook
+site_description: Copy-ready structured data patterns for law firm websites (LegalService, Attorney, Person, BreadcrumbList, FAQPage), with what Google actually uses, by Legal Web Agency.
+site_author: Legal Web Agency
+site_url: https://law-firm-schema-markup-cookbook.readthedocs.io/
+theme:
+  name: readthedocs
+nav:
+  - Schema cookbook: index.md
+markdown_extensions:
+  - tables
+  - fenced_code
